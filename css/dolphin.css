@@ -19,4 +19,9 @@ html {
 }
 
 /* Write your solution here */
-
+@media only screen and (min-width: 1196px) {
+  #bear {
+    /* Moves Bear 800 pixels from the Left side */
+    left: 800px;
+  }
+}
