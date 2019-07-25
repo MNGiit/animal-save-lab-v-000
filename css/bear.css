@@ -11,8 +11,7 @@ html {
 /* Write your solution here */
 @media only screen and (min-width: 1196px) {
   #bear {
-    
-    // For instance, we may want to specify that a navigation bar should extend across the width of our page, but only on screens larger than 800px
-    left: 800px;
+    /* Moves Bear to the Left when screen minimum width is 1196 pixels */
+    left: 500px;
   }
 }
