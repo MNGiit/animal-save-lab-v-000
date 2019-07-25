@@ -24,5 +24,6 @@ html {
     /* Rotate Dolphin, keep it 100 pixels from the top, and 0 pixels from the right */
     top: 100px;
     right: 0;
+    transform: rotate(-0.25turn); 
   }
 }
