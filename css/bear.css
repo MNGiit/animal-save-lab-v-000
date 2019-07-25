@@ -12,6 +12,6 @@ html {
 @media only screen and (min-width: 1196px) {
   #bear {
     /* Moves Bear to the Left when screen minimum width is 1196 pixels */
-    
+    left: 100px;
   }
 }
